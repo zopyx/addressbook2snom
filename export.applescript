@@ -1,5 +1,3 @@
--- Mainly based on http://www.macosxhints.com/article.php?story=20041104212239178
-
 set resultText to ""
 set currentLine to ""
 set numPhones to 0
